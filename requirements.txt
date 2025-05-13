@@ -1,6 +1,7 @@
+streamlit
 numpy
 pandas
-xgboost
 scikit-learn
-flask
+xgboost
+pickle
 gunicorn
